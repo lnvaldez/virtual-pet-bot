@@ -40,8 +40,6 @@ pip install -r requirements.txt
 - Rename `.env.example` to `.env` and get a [discord token](https://www.writebots.com/discord-bot-token/)
 - Type `python -m src.bot` to start the bot
 
-<br>
-
 <h1 align="center"> 🐾 Features 🐾 </h1>
 
 ### 🐶 **Adopt a Pet**
