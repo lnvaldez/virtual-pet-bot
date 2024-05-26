@@ -15,9 +15,9 @@
   •
   <a href="#-getting-started">Getting Started</a>
   •
-  <a href="#-features">Features</a>
+  <a href="#-features-">Features</a>
   •
-  <a href="#-contributing">Contributing</a>
+  <a href="#-contributing-">Contributing</a>
 </p>
 
 <br>
