@@ -40,7 +40,8 @@ pip install -r requirements.txt
 - Rename `.env.example` to `.env` and get a [discord token](https://www.writebots.com/discord-bot-token/)
 - Type `python -m src.bot` to start the bot
 
-## 🐾 Features
+<br>
+<h1 id="features" align="center">🐾 Features 🐾</h1>
 
 ### 🐶 **Adopt a Pet**
 
@@ -61,7 +62,9 @@ pip install -r requirements.txt
 
 - **Interactive Community:** Engage with other pet owners in your server and share tips.
 
-## 🤝 Contributing 🤝
+<br>
+
+<h1 id="contributing" align="center">🤝 Contributing 🤝</h1>
 
 - Special thanks to [Sai Teja Madha](https://github.com/saiteja-madha) for the README.md
 - Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
