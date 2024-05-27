@@ -7,7 +7,7 @@
   <br>
 
 </h1>
-<p align="center">Project made by <a href="https://github.com/arabenitezz"> Arami <b>Benitez</b></a>, <a href="https://github.com/ginnogar">Ginno <b>Garcete</b></a>, <a href="">Smille <b>Mereles</b></a>, <a href="https://github.com/nahtoks">Marcos <b>Talavera</b></a>, and <a href="https://github.com/lnvaldez"> Lucas <b>Valdez</b></a>.</p>
+<p align="center">Project made by <a href="https://github.com/arabenitezz"> Arami <b>Benitez</b></a>, <a href="https://github.com/ginnogar">Ginno <b>Garcete</b></a>, <a href="https://github.com/smillemereles">Smille <b>Mereles</b></a>, <a href="https://github.com/nahtoks">Marcos <b>Talavera</b></a>, and <a href="https://github.com/lnvaldez"> Lucas <b>Valdez</b></a>.</p>
 <p align="center">Adopt a virtual pet in your Discord server! Choose from unique pets, feed, play, and customize. Start your adventure today!</p>
 <br>
 <p align="center">
