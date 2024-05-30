@@ -28,6 +28,7 @@
 
 ## 🚀 Getting Started
 
+- Install Ollama
 - Open the terminal and run the following commands
 
 ```
