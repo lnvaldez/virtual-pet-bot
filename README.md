@@ -68,4 +68,4 @@ pip install -r requirements.txt
 <h1 id="contributing" align="center">🤝 Contributing 🤝</h1>
 
 - Special thanks to [Sai Teja Madha](https://github.com/saiteja-madha) for the README.md
-- Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
+- Feel free to [Fork](https://github.com/lnvaldez/Virtual-Pet-Bot/fork) this repository, create a feature branch and submit a pull request
