@@ -32,7 +32,7 @@
 - Open the terminal and run the following commands
 
 ```
-git clone git@github.com:lnvaldez/virtual-pet-bot.git
+git clone git@github.com:lnvaldez/Virtual-Pet-Bot.git
 cd virtual-pet-bot
 pip install -r requirements.txt
 ```
