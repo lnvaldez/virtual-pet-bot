@@ -33,7 +33,7 @@
 
 ```
 git clone git@github.com:lnvaldez/Virtual-Pet-Bot.git
-cd virtual-pet-bot
+cd Virtual-Pet-Bot
 pip install -r requirements.txt
 ```
 
