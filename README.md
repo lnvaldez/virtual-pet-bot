@@ -69,3 +69,8 @@ pip install -r requirements.txt
 
 - Special thanks to [Sai Teja Madha](https://github.com/saiteja-madha) for the README.md
 - Feel free to [Fork](https://github.com/lnvaldez/Virtual-Pet-Bot/fork) this repository, create a feature branch and submit a pull request
+
+<p id="license" align="center"><a href="https://choosealicense.com/licenses/mit/">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  </a></p>
+
